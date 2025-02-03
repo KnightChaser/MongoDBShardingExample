@@ -173,7 +173,7 @@ MongoDB will now manage the `exampleDB.files` collection by splitting its data i
 
 After running your Python program (`main.py`) repeatedly (which inserts documents and performs queries), the output of `sh.status()` in the mongos shell might look similar to the following JSON excerpt:
 
-```json
+```
 databases
 [
   {
